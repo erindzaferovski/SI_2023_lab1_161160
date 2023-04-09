@@ -1,0 +1,202 @@
+$ git log
+commit 66eb8430ec08b1114defc4bb76c2c2cd9bcc5c1e (HEAD -> master, origin/master, bug3)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:53 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b99351bbcc0b99986466b6450d7d4414a85828ba
+Merge: c0e84bb c5def06
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 21:07:20 2023 +0200
+
+    merge2MSG Merge branch 'bug2'
+
+commit c5def06dfa2d8a20387fa87a3bf7d8543c7797cd (origin/bug2, bug2)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:04 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c0e84bb7d9bdf36b62b199ecb97a424bf022e28c (origin/bug1, bug1)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:58:04 2023 +0200
+ ESCOC
+bcc5c1e (HEAD -> master, origin/master, bug3)
+tlook.com>
+
+
+
+
+85828ba
+
+tlook.com>
+
+
+
+
+c7797cd (origin/bug2, bug2)
+tlook.com>
+
+
+ers
+
+022e28c (origin/bug1, bug1)
+tlook.com>
+
+
+ ESCOD
+commit 66eb8430ec08b1114defc4bb76c2c2cd9bcc5c1e (HEAD -> master, origin/master, bug3)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:53 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b99351bbcc0b99986466b6450d7d4414a85828ba
+Merge: c0e84bb c5def06
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 21:07:20 2023 +0200
+
+    merge2MSG Merge branch 'bug2'
+
+commit c5def06dfa2d8a20387fa87a3bf7d8543c7797cd (origin/bug2, bug2)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:04 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c0e84bb7d9bdf36b62b199ecb97a424bf022e28c (origin/bug1, bug1)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:58:04 2023 +0200
+ ESCOD
+commit 66eb8430ec08b1114defc4bb76c2c2cd9bcc5c1e (HEAD -> master, origin/master, bug3)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:53 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b99351bbcc0b99986466b6450d7d4414a85828ba
+Merge: c0e84bb c5def06
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 21:07:20 2023 +0200
+
+    merge2MSG Merge branch 'bug2'
+
+commit c5def06dfa2d8a20387fa87a3bf7d8543c7797cd (origin/bug2, bug2)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:04 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c0e84bb7d9bdf36b62b199ecb97a424bf022e28c (origin/bug1, bug1)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:58:04 2023 +0200
+ ESCOD
+commit 66eb8430ec08b1114defc4bb76c2c2cd9bcc5c1e (HEAD -> master, origin/master, bug3)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:53 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b99351bbcc0b99986466b6450d7d4414a85828ba
+Merge: c0e84bb c5def06
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 21:07:20 2023 +0200
+
+    merge2MSG Merge branch 'bug2'
+
+commit c5def06dfa2d8a20387fa87a3bf7d8543c7797cd (origin/bug2, bug2)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:04 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c0e84bb7d9bdf36b62b199ecb97a424bf022e28c (origin/bug1, bug1)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:58:04 2023 +0200
+ ESCOD
+commit 66eb8430ec08b1114defc4bb76c2c2cd9bcc5c1e (HEAD -> master, origin/master, bug3)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:53 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b99351bbcc0b99986466b6450d7d4414a85828ba
+Merge: c0e84bb c5def06
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 21:07:20 2023 +0200
+
+    merge2MSG Merge branch 'bug2'
+
+commit c5def06dfa2d8a20387fa87a3bf7d8543c7797cd (origin/bug2, bug2)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:04 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c0e84bb7d9bdf36b62b199ecb97a424bf022e28c (origin/bug1, bug1)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:58:04 2023 +0200
+ ESCOD
+commit 66eb8430ec08b1114defc4bb76c2c2cd9bcc5c1e (HEAD -> master, origin/master, commit 66eb8430ec08b1114defc4bb76c2c2cd9bcc5c1e (HEAD -> master, origin/master,
+bug3)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:53 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b99351bbcc0b99986466b6450d7d4414a85828ba
+Merge: c0e84bb c5def06
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 21:07:20 2023 +0200
+
+    merge2MSG Merge branch 'bug2'
+
+commit c5def06dfa2d8a20387fa87a3bf7d8543c7797cd (origin/bug2, bug2)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:04 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c0e84bb7d9bdf36b62b199ecb97a424bf022e28c (origin/bug1, bug1)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:58:04 2023 +0200
+
+    Fix wrong loop for reading
+
+commit a4316ac393001c93c7c44835cba81d976230275c
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:56:05 2023 +0200
+
+    Add java class
+
+commit 185dfcfd9f98ba2f4ae83384de28375db47fca55
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:54:25 2023 +0200
+
+    Initial commit
+ ESCOD
+
+commit c5def06dfa2d8a20387fa87a3bf7d8543c7797cd (origin/bug2, bug2)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:59:04 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c0e84bb7d9bdf36b62b199ecb97a424bf022e28c (origin/bug1, bug1)
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:58:04 2023 +0200
+
+    Fix wrong loop for reading
+
+commit a4316ac393001c93c7c44835cba81d976230275c
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:56:05 2023 +0200
+
+    Add java class
+
+commit 185dfcfd9f98ba2f4ae83384de28375db47fca55
+Author: Erin Djaferovski <xhaferowsky@outlook.com>
+Date:   Sun Apr 9 20:54:25 2023 +0200
+
+    Initial commit
